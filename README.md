@@ -4,6 +4,8 @@ In the game you need to dodge sherikans while destroying enemies in order to ach
 
 ## Demo Video
 
+Bellow is a link to a youtube video!
+
 [![Watch the video](https://img.youtube.com/vi/VMxjVGqkMns/0.jpg)](https://youtu.be/VMxjVGqkMns)
 
 # Overview
@@ -83,3 +85,10 @@ with basic python knowledge you shoudl be able to run and handle it
 
 you can also use parts of existing beat maps to create new ones
 
+# Apologize and Moving Forward
+
+There are some unused assets and scripts that are kinda empty, I had plans but they are still in development
+
+I tried to keep it to a mininum, regardless I apologize
+
+Thank you for reading this far if you have!
