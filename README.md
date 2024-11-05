@@ -8,6 +8,8 @@ Controls are: WASD for movement | space for a dodge/dash | left click to shoot
 
 Also, massive shoutout to [Camellia](https://www.youtube.com/channel/UCV4ggxLd_Vz-I-ePGSKfFog) for the music and [Pixel-boy](https://x.com/2Pblog1) for the assets!
 
+If you are only interested in playing, downlaod just the builds foler and run the .exe, thank you!
+
 ## Demo Video
 
 Watch a demo video below!
