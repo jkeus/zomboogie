@@ -1,100 +1,83 @@
 # The Game
 
-In the game you need to dodge sherikans while destroying enemies in order to achieve the higest score!
-
-All the while trying to stay alive till the end of the song!
+In this game, you need to dodge shurikens and destroy enemies to achieve the highest score! Stay alive until the end of the song for maximum points.
 
 ## Demo Video
 
-Bellow is a link to a youtube video!
+Watch a demo video below!
 
 [![Watch the video](https://img.youtube.com/vi/VMxjVGqkMns/0.jpg)](https://youtu.be/VMxjVGqkMns)
 
 # Overview
 
+Here’s a brief description of the core C# scripts in the project. Be sure to check out the Map Editing section as well!
+
 ## AudioManager.cs
-Handles background music and sound effects for the game. It plays, pauses, and stops audio based on in-game events.
+Controls background music and sound effects, handling playback, pausing, and stopping based on in-game events.
 
 ## BeatMapManager.cs
-Manages the spawning of enemies and shurikens based on a beat map. Reads events from JSON and spawns enemies or projectiles at specified times and locations.
+Manages the timing and spawning of enemies and shurikens based on a beat map. Reads events from JSON to control spawn times and locations.
 
 ## BoundaryManager.cs
-Defines boundaries within the game scene to restrict player movement and enemy positioning. Used to keep entities within a set area.
+Defines boundaries for player movement and enemy positioning to keep entities within the playable area.
 
 ## ClickEffect.cs
-Displays a visual effect when the player clicks on the screen, such as showing a small sprite over the player character.
+Displays a visual effect at the player’s click location, adding interactivity to each click.
 
 ## CustomCursor.cs
-Implements a custom cursor for the game. Allows a customized image or animation to appear as the cursor during gameplay.
+Implements a custom cursor, allowing for unique cursor images or animations in the game.
 
 ## DamageOnTouch.cs
-Reduces player health when they touch an object with this script, such as certain obstacles or enemy projectiles.
-Will also update health, score, and streak
+Decreases player health when they touch certain objects, such as obstacles or projectiles, and updates health, score, and streak.
 
 ## EnemyController.cs
-Controls enemy behavior, including animations, click interactions, and timing for despawn. Tracks clicks to give the player health rewards after a set number of successful hits.
+Controls enemy animations, click interactions, and despawn timing. Tracks successful clicks to reward the player with health after a set number of successful hits.
 
 ## GameManager.cs
-Manages overall game states, including starting, pausing, and ending the game. Centralizes control of game flow.
+Handles overall game states, including starting, pausing, and ending the game, centralizing control of the game flow.
 
 ## MainMenu.cs
-Handles navigation and interactions on the main menu screen, allowing players to start the game, adjust settings, or exit.
+Manages main menu interactions, allowing players to start the game, adjust settings, or exit.
 
 ## PlayerHealth.cs
-Tracks the player's health, displays it on-screen, and manages health restoration and damage, including visual updates for the health bar.
-Also tracks the player's score
+Manages the player’s health, displays it on-screen, and handles restoration and damage. Tracks and displays the player’s score.
 
 ## PlayerInputActions.cs & PlayerInputActions.inputactions
-Defines player input controls for various actions, including movement, firing, and dashing. Used to capture input and map it to player actions.
+Defines controls for actions like movement, firing, and dashing, capturing input and mapping it to gameplay actions.
 
 ## PlayerMovement.cs
-Controls player movement, dashing, and position clamping. Handles dash cooldown, dash direction, and invincibility frames during dashes.
+Controls player movement and dashing, handling dash cooldowns, direction, and invincibility frames during dashes.
 
 ## ScoreManager.cs
-Manages the player’s score, updating it based on events such as defeating enemies. Provides UI updates to display the score on-screen.
+Manages the player’s score, updating it for events like enemy defeats, and provides a UI update to display the score.
 
 ## ShurikenMover.cs
-Right now does nothing, I wanted the shoot them out, but decided to let gravity do the work
+Currently unused for moving shurikens, as gravity is handling their movement instead. Initially planned for projectile shooting.
 
 # Maps and Menu
 
-The menu is very basic right now, if this were to expand,
-I would have a system to sort, select, and input
+The menu is currently basic. If expanded, it could include options for sorting, selecting, and inputting custom maps.
 
-The best two maps in my opinion are beatmap and beatmap0
+The best maps right now are `beatmap` (no shurikens) and `beatmap0` (with shurikens), both with similar spawn patterns.
 
-beatmap has no shurikens while 0 has the shurikens, both have the same spawn
+# Creating Your Own Maps
 
-# Making your own maps
+Custom maps can be created with the provided Python scripts. First, choose a song in the `AudioManager`, then record where you want enemies to spawn by "clicking" during gameplay. 
 
-I made some python scripts that help make beat maps,
+After finishing, save the logs and place them in the `raw_click_input.txt` file in the `BeatHelp` directory. Repeat the process for shurikens, record only dashes, then place the logs in `raw_dodge_input.txt`.
 
-to use, first chose the song in the AudioManagerm
-
-then record yourself "clicking" where you want and finish the song
-
-take the logs and put them into the raw_click_input file for in the BeatHelp directory
-
-do the same but for shurikens you want to drop
-
-with basic python knowledge you shoudl be able to run and handle it
-
-you can also use parts of existing beat maps to create new ones
+With basic Python knowledge, you should be able to run and manage these files to generate a new beat map. You can also reuse parts of existing beat maps to create new variations.
 
 ## maker.py
-Python script for generating beat maps by parsing click and dash timings from input text files. Outputs a JSON file with timed events for enemy and shuriken spawns.
+Generates beat maps by parsing click and dash timings from input text files and outputs a JSON file with timed events for enemy and shuriken spawns.
 
 ## raw_click_input.txt & raw_dodge_input.txt
-Input text files for maker.py, containing timing data for clicks and dashes, which are parsed to create beat map events.
+Input files for `maker.py`, containing timing data for clicks and dashes, which are parsed to create beat map events.
 
-# Apologize and Moving Forward
+# Apologies and Future Plans
 
-There are some unused assets and scripts that are kinda empty, I had plans but they are still in development
+There are some unused assets and placeholder scripts in the project that are still under development. I have a lot of ideas for the main game, but it’s challenging to prioritize them all. 
 
-There is so many options and ideas, I am unsure what to do for the main game
+A more advanced map editor and game balancing features are on the wishlist, though they’re still in early planning stages. 
 
-Don't even get me started on a map editor and balancing lol
-
-I tried to keep the mess to a mininum, but regardless I apologize
-
-Thank you for reading this far if you have!
+Thank you for reading this far, and I hope you enjoy the game!
