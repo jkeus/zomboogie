@@ -1,6 +1,8 @@
-#The Game
+# The Game
 
 In the game you need to dodge sherikans while destroying enemies in order to achieve the higest score!
+
+All the while trying to stay alive till the end of the song!
 
 ## Demo Video
 
