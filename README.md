@@ -2,6 +2,10 @@
 
 In this game, you need to dodge shurikens and destroy enemies to achieve the highest score! Stay alive until the end of the song for maximum points.
 
+I know that the name should be like FrogBoogie, but Zomboogie is too good to pass up on.
+
+Also, massive shoutout to [Camellia](https://www.youtube.com/channel/UCV4ggxLd_Vz-I-ePGSKfFog) for the music and [Pixel-boy](https://x.com/2Pblog1) for the assets!
+
 ## Demo Video
 
 Watch a demo video below!
