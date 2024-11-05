@@ -29,6 +29,7 @@ Implements a custom cursor for the game. Allows a customized image or animation 
 
 ## DamageOnTouch.cs
 Reduces player health when they touch an object with this script, such as certain obstacles or enemy projectiles.
+Will also update health, score, and streak
 
 ## EnemyController.cs
 Controls enemy behavior, including animations, click interactions, and timing for despawn. Tracks clicks to give the player health rewards after a set number of successful hits.
@@ -41,6 +42,7 @@ Handles navigation and interactions on the main menu screen, allowing players to
 
 ## PlayerHealth.cs
 Tracks the player's health, displays it on-screen, and manages health restoration and damage, including visual updates for the health bar.
+Also tracks the player's score
 
 ## PlayerInputActions.cs & PlayerInputActions.inputactions
 Defines player input controls for various actions, including movement, firing, and dashing. Used to capture input and map it to player actions.
@@ -52,15 +54,7 @@ Controls player movement, dashing, and position clamping. Handles dash cooldown,
 Manages the player’s score, updating it based on events such as defeating enemies. Provides UI updates to display the score on-screen.
 
 ## ShurikenMover.cs
-Handles the movement and lifetime of shurikens (projectiles). Moves shurikens based on a set speed and direction, then despawns them after a set time.
-
----
-
-## maker.py
-Python script for generating beat maps by parsing click and dash timings from input text files. Outputs a JSON file with timed events for enemy and shuriken spawns.
-
-## raw_click_input.txt & raw_dodge_input.txt
-Input text files for maker.py, containing timing data for clicks and dashes, which are parsed to create beat map events.
+Right now does nothing, I wanted the shoot them out, but decided to let gravity do the work
 
 # Maps and Menu
 
@@ -71,7 +65,7 @@ The best two maps in my opinion are beatmap and beatmap0
 
 beatmap has no shurikens while 0 has the shurikens, both have the same spawn
 
-## Making your own maps
+# Making your own maps
 
 I made some python scripts that help make beat maps,
 
@@ -87,10 +81,20 @@ with basic python knowledge you shoudl be able to run and handle it
 
 you can also use parts of existing beat maps to create new ones
 
+## maker.py
+Python script for generating beat maps by parsing click and dash timings from input text files. Outputs a JSON file with timed events for enemy and shuriken spawns.
+
+## raw_click_input.txt & raw_dodge_input.txt
+Input text files for maker.py, containing timing data for clicks and dashes, which are parsed to create beat map events.
+
 # Apologize and Moving Forward
 
 There are some unused assets and scripts that are kinda empty, I had plans but they are still in development
 
-I tried to keep it to a mininum, regardless I apologize
+There is so many options and ideas, I am unsure what to do for the main game
+
+Don't even get me started on a map editor and balancing lol
+
+I tried to keep the mess to a mininum, but regardless I apologize
 
 Thank you for reading this far if you have!
