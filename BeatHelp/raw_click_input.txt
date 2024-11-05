@@ -1,0 +1,297 @@
+No baseSpawnFile assigned in the Inspector!
+UnityEngine.Debug:LogError (object)
+BeatMapManager:LoadSpawnEventsFromJSON () (at Assets/BeatMapManager.cs:58)
+BeatMapManager:Awake () (at Assets/BeatMapManager.cs:47)
+
+Click at time (from beginning of song): 3.626667 seconds, Position: (5.052447, 0.1748252)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 4.330667 seconds, Position: (-3.426574, 3.199301)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 4.970667 seconds, Position: (-2.22028, -2.5)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 5.674667 seconds, Position: (5.297204, -0.7867137)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 6.314667 seconds, Position: (2.360141, 3.286713)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 7.061333 seconds, Position: (4.720279, -1.171329)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 7.744 seconds, Position: (-2.377623, -2.587413)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 8.426666 seconds, Position: (-3.776224, 3.339161)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 9.109333 seconds, Position: (2.902098, 0.5594403)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 9.770667 seconds, Position: (-6.118881, 0.4370624)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 10.45333 seconds, Position: (-2.062937, -3.566434)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 11.136 seconds, Position: (4.405595, 0.2797204)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 11.84 seconds, Position: (-2.972028, 3.374126)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 12.52267 seconds, Position: (0.314685, -0.06993055)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 13.22667 seconds, Position: (-6.066434, 0.0874126)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 13.888 seconds, Position: (0.4020977, 0.06992996)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 14.61333 seconds, Position: (6.451049, 0.2097905)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 15.27467 seconds, Position: (5.576922, -3.269231)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 15.936 seconds, Position: (4.632867, 3.531468)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 16.61867 seconds, Position: (-3.006993, -2.727273)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 17.32267 seconds, Position: (0.7692305, -0.05244792)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 18.00533 seconds, Position: (-6.013986, -0.0874126)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 18.688 seconds, Position: (-2.727273, 3.566433)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 19.392 seconds, Position: (-0.7342662, -2.989511)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 20.096 seconds, Position: (6.293706, -3.234266)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 20.736 seconds, Position: (3.269231, 1.853147)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 21.71733 seconds, Position: (-3.076923, 3.006992)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 22.29333 seconds, Position: (-2.167832, -3.409091)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 23.488 seconds, Position: (5.559441, 0.5594403)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 24.128 seconds, Position: (-3.601399, 3.828671)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 24.832 seconds, Position: (-3.076923, -3.269231)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 25.51467 seconds, Position: (3.164336, -1.031469)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 26.176 seconds, Position: (2.534965, 3.146853)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 26.90133 seconds, Position: (-1.958042, -2.832168)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 27.56267 seconds, Position: (0.1398606, 0.3846151)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 28.26667 seconds, Position: (7.062937, 2.5)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 28.94933 seconds, Position: (-2.674825, 2.954545)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 29.65333 seconds, Position: (-3.409091, -3.199301)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 30.35733 seconds, Position: (4.807692, -0.5244759)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 31.44533 seconds, Position: (-7.272727, 0.3846151)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 31.91467 seconds, Position: (2.604895, 2.272727)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 32.384 seconds, Position: (-2.587413, 3.706293)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 32.72533 seconds, Position: (-1.468531, -2.884616)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 33.04533 seconds, Position: (5.437063, -0.5419585)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 33.25867 seconds, Position: (-5.227273, 0.1223773)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 34.09067 seconds, Position: (2.954546, 3.304196)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 34.432 seconds, Position: (-2.797203, 3.688811)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 35.54133 seconds, Position: (3.234266, -0.2972031)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 35.84 seconds, Position: (-1.923077, -2.972028)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 36.90667 seconds, Position: (5.384616, 0.7342654)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 37.20533 seconds, Position: (1.013986, 3.111887)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 38.22933 seconds, Position: (-6.153846, 1.538461)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 38.528 seconds, Position: (-1.713287, -2.325175)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 39.65867 seconds, Position: (4.58042, -0.472028)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 39.936 seconds, Position: (1.835664, 3.006992)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 40.32 seconds, Position: (-2.70979, -3.548951)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 40.64 seconds, Position: (-5.804196, 0.6118882)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 40.96 seconds, Position: (0.2272733, -1.923077)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 41.30133 seconds, Position: (-1.835665, 2.395105)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 41.664 seconds, Position: (3.671329, -0.2622378)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 42.00533 seconds, Position: (-3.653846, -0.6118885)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 42.34667 seconds, Position: (1.328671, -0.2797204)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 42.816 seconds, Position: (4.283216, 2.360139)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 43.328 seconds, Position: (-3.33916, 3.461538)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 43.712 seconds, Position: (3.024475, -0.5069929)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 44.032 seconds, Position: (-2.272727, -3.006994)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 44.20267 seconds, Position: (-4.79021, -0.4895106)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 44.69333 seconds, Position: (3.321679, 0.3671324)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 45.09867 seconds, Position: (-1.608392, 3.199301)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 47.85067 seconds, Position: (2.972028, 3.076923)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 48.36267 seconds, Position: (6.136364, -0.769231)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 50.60266 seconds, Position: (3.933567, -3.461539)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+
+Click at time (from beginning of song): 51.09333 seconds, Position: (-5.244755, -3.129371)
+UnityEngine.Debug:Log (object)
+ClickEffectController:Update () (at Assets/ClickEffect.cs:59)
+

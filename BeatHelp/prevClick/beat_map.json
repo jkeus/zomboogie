@@ -1,0 +1,1012 @@
+{
+    "events": [
+        {
+            "spawnTime": 2.831,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 6.643357,
+                "y": -0.9440565,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 3.471,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.86014,
+                "y": 3.426573,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 4.175,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -2.744755,
+                "y": -2.552448,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 4.836,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.115384,
+                "y": 3.444056,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 5.54,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.052447,
+                "y": 0.01748264,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 6.201,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 4.772727,
+                "y": -3.479021,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 6.884,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.356643,
+                "y": -3.234266,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 7.545,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.842658,
+                "y": -0.1398605,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 8.249,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 4.597901,
+                "y": 0.6118882,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 8.975,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.548951,
+                "y": 3.513985,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 9.657,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.258741,
+                "y": -2.395105,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 10.319,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.77972,
+                "y": 3.706293,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 10.98,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 0.1048946,
+                "y": -0.2447554,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 11.727,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -6.398602,
+                "y": -0.06993055,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 12.388,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.087413,
+                "y": -0.1223779,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 13.092,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.412587,
+                "y": 3.898602,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 13.753,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -0.3846153,
+                "y": -3.059441,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 14.457,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 0.03496488,
+                "y": 0.2797204,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 15.14,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.664335,
+                "y": -1.486014,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 15.823,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 7.097901,
+                "y": 2.534965,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 16.484,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.405595,
+                "y": -0.1923075,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 17.188,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.562937,
+                "y": 3.496503,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 17.807,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -2.115385,
+                "y": -2.395105,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 18.532,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.744755,
+                "y": 0.804196,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 19.257,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.923077,
+                "y": 3.391609,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 20.239,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.552447,
+                "y": 3.146853,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 20.793,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 4.195805,
+                "y": 0.06992996,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 21.284,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.468531,
+                "y": -2.937063,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 22.009,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.807693,
+                "y": 0.1923078,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 22.628,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 1.713287,
+                "y": 3.321678,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 23.311,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.6993,
+                "y": -2.447553,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 24.036,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.024476,
+                "y": -2.692308,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 24.719,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -2.307692,
+                "y": 2.902098,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 25.359,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.454546,
+                "y": 0.4720277,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 26.105,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 4.160839,
+                "y": 4.195804,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 26.767,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -2.342658,
+                "y": -3.583916,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 27.428,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 6.416084,
+                "y": -2.70979,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 28.132,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -6.153846,
+                "y": -2.307693,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 28.879,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -6.293707,
+                "y": 3.216783,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 29.497,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.223777,
+                "y": -2.622378,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 29.86,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 6.433567,
+                "y": 0.3496498,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 30.415,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 0.4545456,
+                "y": 3.513985,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 30.884,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.618882,
+                "y": 0.8391607,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 31.247,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.769231,
+                "y": 1.118881,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 31.567,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 0.1748255,
+                "y": -2.989511,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 31.759,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.786713,
+                "y": -2.744756,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 32.569,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.975524,
+                "y": -2.972028,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 32.911,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.825175,
+                "y": -0.5069929,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 33.295,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.559441,
+                "y": 1.118881,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 33.636,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 3.216784,
+                "y": 2.954545,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 34.02,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.227273,
+                "y": -1.136364,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 34.361,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 6.188811,
+                "y": 0.1573426,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 34.703,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.755245,
+                "y": 2.832168,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 35.044,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -5.611888,
+                "y": -0.7167837,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 35.385,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -2.884615,
+                "y": -3.216784,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 35.727,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.136364,
+                "y": 3.636363,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 36.089,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 4.685314,
+                "y": -0.1398605,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 36.409,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 0.2972031,
+                "y": -3.006994,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 36.729,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.192307,
+                "y": -1.590909,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 37.071,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.755245,
+                "y": 0.6118882,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 37.412,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.762237,
+                "y": 3.304196,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 37.732,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.034965,
+                "y": -0.7517487,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 38.095,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.496503,
+                "y": -3.286714,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 38.244,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -5.034965,
+                "y": -1.223777,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 38.415,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -6.573427,
+                "y": -0.03496528,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 38.756,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.08042,
+                "y": 2.622377,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 38.927,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 4.615385,
+                "y": 0.7692307,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 39.119,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 7.604895,
+                "y": -1.695805,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 39.503,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.77972,
+                "y": -0.8916089,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 39.695,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.08042,
+                "y": 2.202797,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 39.823,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 1.958042,
+                "y": 2.902098,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 40.143,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.055944,
+                "y": 2.08042,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 40.335,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.041958,
+                "y": -0.06993055,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 40.505,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.660839,
+                "y": -2.674825,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 40.847,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.017482,
+                "y": 0.5769229,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 41.359,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -2.70979,
+                "y": 4.178321,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 41.871,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -2.377623,
+                "y": -2.77972,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 42.191,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.786713,
+                "y": -0.1748255,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 42.724,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.968531,
+                "y": 3.461538,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 43.62,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.786713,
+                "y": -1.223777,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 46.393,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.793707,
+                "y": -2.482518,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 46.82,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.520979,
+                "y": 3.688811,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 49.103,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 6.241258,
+                "y": 0.2797204,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 49.615,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.909091,
+                "y": -2.29021,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        }
+    ]
+}

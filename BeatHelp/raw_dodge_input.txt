@@ -1,0 +1,282 @@
+Dash triggered at time: 4.039833 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 5.313627 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 6.689372 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 7.401077 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 7.942608 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 8.556217 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 10.49417 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 11.2412 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 12.4773 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 13.91919 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 15.30457 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 17.13136 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 18.49177 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 20.00614 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 21.3497 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 21.93845 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 22.50768 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 23.87036 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 25.35911 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 27.04793 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 27.95112 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 28.48353 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 30.66889 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 31.19059 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 31.73861 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 33.03884 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 35.03631 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 36.64993 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 38.91768 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 40.43699 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 41.82528 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 42.61079 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 44.57361 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 45.15892 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 45.6749 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 46.18742 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 46.72974 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 47.2689 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 48.06395 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 48.62736 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 49.13587 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 49.67814 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 50.16203 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 50.6659 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 51.13228 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 51.66385 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+
+Dash triggered at time: 52.20935 seconds
+UnityEngine.Debug:Log (object)
+PlayerMovement:Dash (UnityEngine.InputSystem.InputAction/CallbackContext) (at Assets/PlayerMovement.cs:128)
+UnityEngine.InputSystem.LowLevel.NativeInputRuntime/<>c__DisplayClass7_0:<set_onUpdate>b__0 (UnityEngineInternal.Input.NativeInputUpdateType,UnityEngineInternal.Input.NativeInputEventBuffer*)
+UnityEngineInternal.Input.NativeInputSystem:NotifyUpdate (UnityEngineInternal.Input.NativeInputUpdateType,intptr)
+

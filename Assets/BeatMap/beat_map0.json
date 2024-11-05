@@ -1,0 +1,2892 @@
+{
+    "events": [
+        {
+            "spawnTime": 2.831,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 6.643357,
+                "y": -0.9440565,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 3.471,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.86014,
+                "y": 3.426573,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 4.039833,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 5.775207139459225,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 4.039833,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.4717938845765204,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 4.039833,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 6.459607430070848,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 4.039833,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 3.665992273498116,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 4.175,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -2.744755,
+                "y": -2.552448,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 4.836,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.115384,
+                "y": 3.444056,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 5.313627,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 7.316698205238845,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 5.313627,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -4.874781339698892,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 5.313627,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 7.028483255916463,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 5.313627,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 1.6629437355307122,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 5.54,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.052447,
+                "y": 0.01748264,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 6.201,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 4.772727,
+                "y": -3.479021,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 6.689372,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 5.483782942236328,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 6.689372,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -1.5272629086681695,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 6.689372,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 5.493625497301585,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 6.689372,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -1.8599893265551923,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 6.884,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.356643,
+                "y": -3.234266,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 7.401077,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -5.699730590447252,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 7.401077,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.6124025443458105,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 7.401077,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -1.563159226319649,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 7.401077,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.6211677746320117,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 7.545,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.842658,
+                "y": -0.1398605,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 7.942608,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 1.4957686514114208,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 7.942608,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.9741778920059447,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 7.942608,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -6.173650192931065,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 7.942608,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.8887409034405356,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 8.249,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 4.597901,
+                "y": 0.6118882,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 8.556217,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -6.537922428191761,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 8.556217,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.304539857316456,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 8.556217,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.958914665270932,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 8.556217,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.7216016763285547,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 8.975,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.548951,
+                "y": 3.513985,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 9.657,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.258741,
+                "y": -2.395105,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 10.319,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.77972,
+                "y": 3.706293,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 10.49417,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -4.096816537484189,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 10.49417,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -2.273981813887593,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 10.49417,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 7.293189358960017,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 10.49417,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 4.601504649140329,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 10.98,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 0.1048946,
+                "y": -0.2447554,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 11.2412,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -4.912120044110996,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 11.2412,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 6.251063670585976,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 11.2412,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 7.240441741179829,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 11.2412,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -6.559585638230817,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 11.727,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -6.398602,
+                "y": -0.06993055,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 12.388,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.087413,
+                "y": -0.1223779,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 12.4773,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -4.332395658811629,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 12.4773,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 4.439218744217445,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 12.4773,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 6.641818725940054,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 12.4773,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 1.2848517772651693,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 13.092,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.412587,
+                "y": 3.898602,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 13.753,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -0.3846153,
+                "y": -3.059441,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 13.91919,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 0.5278504166146387,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 13.91919,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -1.1132931306435285,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 13.91919,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -1.8730068211404811,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 13.91919,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -4.280975289832535,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 14.457,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 0.03496488,
+                "y": 0.2797204,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 15.14,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.664335,
+                "y": -1.486014,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 15.30457,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -0.5501727418065787,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 15.30457,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.7006266067090987,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 15.30457,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -0.14628327491843596,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 15.30457,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 1.730559345221625,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 15.823,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 7.097901,
+                "y": 2.534965,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 16.484,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.405595,
+                "y": -0.1923075,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 17.13136,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -4.7187409195268035,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 17.13136,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 1.7621462392235312,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 17.13136,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -1.8094010316876155,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 17.13136,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 5.0457856932883765,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 17.188,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.562937,
+                "y": 3.496503,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 17.807,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -2.115385,
+                "y": -2.395105,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 18.49177,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -2.9124080428502657,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 18.49177,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 5.156578543306011,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 18.49177,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -1.5576971304714835,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 18.49177,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -2.279904988695728,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 18.532,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.744755,
+                "y": 0.804196,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 19.257,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.923077,
+                "y": 3.391609,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 20.00614,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.045456078576599,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 20.00614,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.0896453443278613,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 20.00614,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.18889719357521,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 20.00614,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 3.435985512698778,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 20.239,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.552447,
+                "y": 3.146853,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 20.793,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 4.195805,
+                "y": 0.06992996,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 21.284,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.468531,
+                "y": -2.937063,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 21.3497,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 7.040458092205602,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 21.3497,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -0.9460435773746161,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 21.3497,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.7035631582362827,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 21.3497,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 4.0785730256395745,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 21.93845,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -1.045794099407364,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 21.93845,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -2.3501361902982447,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 21.93845,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 0.49025960252173206,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 21.93845,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -5.99037793365741,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 22.009,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.807693,
+                "y": 0.1923078,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 22.50768,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 1.3554539135518304,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 22.50768,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 1.0493221557129147,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 22.50768,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -7.206585514021318,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 22.50768,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.3184865333198132,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 22.628,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 1.713287,
+                "y": 3.321678,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 23.311,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.6993,
+                "y": -2.447553,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 23.87036,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -5.392864055830657,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 23.87036,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 0.9555280363825567,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 23.87036,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 0.6777209528528321,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 23.87036,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 0.40737777403736253,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 24.036,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.024476,
+                "y": -2.692308,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 24.719,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -2.307692,
+                "y": 2.902098,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 25.359,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.454546,
+                "y": 0.4720277,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 25.35911,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -5.608232751672797,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 25.35911,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 5.200577579809702,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 25.35911,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 0.5703651035185828,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 25.35911,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 6.525842647107851,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 26.105,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 4.160839,
+                "y": 4.195804,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 26.767,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -2.342658,
+                "y": -3.583916,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 27.04793,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 3.507450827081982,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 27.04793,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.967925754892737,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 27.04793,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -0.9093887149848667,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 27.04793,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 3.705629797073085,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 27.428,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 6.416084,
+                "y": -2.70979,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 27.95112,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -5.350621734442118,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 27.95112,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -5.094943902800694,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 27.95112,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -5.8506832639094135,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 27.95112,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.16801248392823,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 28.132,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -6.153846,
+                "y": -2.307693,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 28.48353,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 3.4757351190789034,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 28.48353,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -6.573571769109113,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 28.48353,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.1700855972777493,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 28.48353,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 0.18885222511684407,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 28.879,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -6.293707,
+                "y": 3.216783,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 29.497,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.223777,
+                "y": -2.622378,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 29.86,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 6.433567,
+                "y": 0.3496498,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 30.415,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 0.4545456,
+                "y": 3.513985,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 30.66889,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 1.1543924629096267,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 30.66889,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -2.773761248360872,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 30.66889,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 6.694814992463476,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 30.66889,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -4.812096237535797,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 30.884,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.618882,
+                "y": 0.8391607,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 31.19059,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 5.385804850818861,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 31.19059,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -5.467827855240921,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 31.19059,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 0.8371255983044055,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 31.19059,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -6.028069663617325,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 31.247,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.769231,
+                "y": 1.118881,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 31.567,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 0.1748255,
+                "y": -2.989511,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 31.73861,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -7.347058781303378,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 31.73861,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.1257643708291454,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 31.73861,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 7.237399510031453,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 31.73861,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 5.650663948214142,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 31.759,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.786713,
+                "y": -2.744756,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 32.569,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.975524,
+                "y": -2.972028,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 32.911,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.825175,
+                "y": -0.5069929,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 33.03884,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.3150928482368425,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 33.03884,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -6.116381894454174,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 33.03884,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -6.453713726093792,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 33.03884,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -6.558563056127497,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 33.295,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.559441,
+                "y": 1.118881,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 33.636,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 3.216784,
+                "y": 2.954545,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 34.02,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.227273,
+                "y": -1.136364,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 34.361,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 6.188811,
+                "y": 0.1573426,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 34.703,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.755245,
+                "y": 2.832168,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 35.03631,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 4.5440733687155745,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 35.03631,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -1.1298344159123026,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 35.03631,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 6.670244394665854,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 35.03631,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 7.232538544313487,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 35.044,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -5.611888,
+                "y": -0.7167837,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 35.385,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -2.884615,
+                "y": -3.216784,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 35.727,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.136364,
+                "y": 3.636363,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 36.089,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 4.685314,
+                "y": -0.1398605,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 36.409,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 0.2972031,
+                "y": -3.006994,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 36.64993,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -7.226776931294633,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 36.64993,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 3.7550514090669083,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 36.64993,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 6.233273879649872,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 36.64993,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 7.48446667860232,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 36.729,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.192307,
+                "y": -1.590909,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 37.071,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.755245,
+                "y": 0.6118882,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 37.412,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.762237,
+                "y": 3.304196,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 37.732,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.034965,
+                "y": -0.7517487,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 38.095,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.496503,
+                "y": -3.286714,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 38.244,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -5.034965,
+                "y": -1.223777,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 38.415,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -6.573427,
+                "y": -0.03496528,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 38.756,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.08042,
+                "y": 2.622377,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 38.91768,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 4.399791032090139,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 38.91768,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -4.321650010494913,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 38.91768,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -4.883371401637675,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 38.91768,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 4.076047120242851,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 38.927,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 4.615385,
+                "y": 0.7692307,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 39.119,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 7.604895,
+                "y": -1.695805,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 39.503,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.77972,
+                "y": -0.8916089,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 39.695,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 2.08042,
+                "y": 2.202797,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 39.823,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 1.958042,
+                "y": 2.902098,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 40.143,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -4.055944,
+                "y": 2.08042,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 40.335,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.041958,
+                "y": -0.06993055,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 40.43699,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -1.8231155272185227,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 40.43699,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -2.8666483069689717,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 40.43699,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.563234501696849,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 40.43699,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.7764126254328154,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 40.505,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.660839,
+                "y": -2.674825,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 40.847,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.017482,
+                "y": 0.5769229,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 41.359,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -2.70979,
+                "y": 4.178321,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 41.82528,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.0362386295077,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 41.82528,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.2996886751835586,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 41.82528,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.9663598386058254,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 41.82528,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.4502322009225264,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 41.871,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -2.377623,
+                "y": -2.77972,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 42.191,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.786713,
+                "y": -0.1748255,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 42.61079,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -1.5114572133438733,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 42.61079,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 4.3997624411592735,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 42.61079,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 4.509172156840203,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 42.61079,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -6.929426985541457,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 42.724,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.968531,
+                "y": 3.461538,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 43.62,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.786713,
+                "y": -1.223777,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 44.57361,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.677231644007554,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 44.57361,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -2.8512127748184106,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 44.57361,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -0.4066988717260491,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 44.57361,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -2.980082583172602,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 45.15892,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.0333941993499547,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 45.15892,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -1.7698388231362747,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 45.15892,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -5.148554734127028,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 45.15892,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 3.969665375552877,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 45.6749,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 6.1651361683027055,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 45.6749,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -6.172812448663492,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 45.6749,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.2557093100346037,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 45.6749,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -7.077973415014024,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 46.18742,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 6.045121897362131,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 46.18742,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -0.7996280000516913,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 46.18742,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 0.8403926105221942,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 46.18742,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 4.815708711335141,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 46.393,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -3.793707,
+                "y": -2.482518,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 46.72974,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -4.122728238824811,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 46.72974,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 5.8327628554658375,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 46.72974,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 3.598077253744462,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 46.72974,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 3.2726874412124687,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 46.82,
+            "prefabName": "Enemy",
+            "location": {
+                "x": -1.520979,
+                "y": 3.688811,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 47.2689,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -0.8650595640184626,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 47.2689,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 0.5211209655848847,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 47.2689,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 1.198859143053621,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 47.2689,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 1.889756449623306,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 48.06395,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 1.3713429267559203,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 48.06395,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -4.262149537589485,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 48.06395,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -5.163925036421022,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 48.06395,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 7.145229604551355,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 48.62736,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -1.8757063991210563,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 48.62736,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -0.48627022041469914,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 48.62736,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 6.808034775600019,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 48.62736,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -7.156864086047371,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 49.103,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 6.241258,
+                "y": 0.2797204,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 49.13587,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -7.163625258104642,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 49.13587,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.062064023399765,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 49.13587,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 3.0190598268072524,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 49.13587,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.874958233453551,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 49.615,
+            "prefabName": "Enemy",
+            "location": {
+                "x": 5.909091,
+                "y": -2.29021,
+                "z": 0
+            },
+            "enemyLifeTime": 5.0,
+            "enemySpawnSpeed": 1.5,
+            "enemyHitSpeed": 0.5
+        },
+        {
+            "spawnTime": 49.67814,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -2.569050257509013,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 49.67814,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.425537085758018,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 49.67814,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -3.3238624411763764,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 49.67814,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -5.2261564767343405,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 50.16203,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -4.3985004999404005,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 50.16203,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -6.962220926094341,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 50.16203,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.112397289208724,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 50.16203,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -7.0677755958542825,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 50.6659,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -4.065264522065007,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 50.6659,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.9055597601996457,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 50.6659,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -6.490730889170035,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 50.6659,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -0.10486558344296526,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 51.13228,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.3079544004995007,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 51.13228,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 7.244881456231818,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 51.13228,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -4.985314558681609,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 51.13228,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 0.04579024634905515,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 51.66385,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 5.492984854509174,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 51.66385,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 1.7062030810729976,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 51.66385,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -4.514833952818369,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 51.66385,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 1.7476454819006477,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 52.20935,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 7.408865827153644,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 52.20935,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 3.9495075017028345,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 52.20935,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": -1.3414845684129357,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        },
+        {
+            "spawnTime": 52.20935,
+            "prefabName": "Shuriken",
+            "location": {
+                "x": 2.564699924105806,
+                "y": 4.0,
+                "z": 0
+            },
+            "shurikenLifeTime": 3.5
+        }
+    ]
+}
