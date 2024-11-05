@@ -4,6 +4,8 @@ In this game, you need to dodge shurikens and destroy enemies to achieve the hig
 
 I know that the name should be like FrogBoogie, but Zomboogie is too good to pass up on.
 
+Controls are: WASD for movement | space for a dodge/dash | left click to shoot
+
 Also, massive shoutout to [Camellia](https://www.youtube.com/channel/UCV4ggxLd_Vz-I-ePGSKfFog) for the music and [Pixel-boy](https://x.com/2Pblog1) for the assets!
 
 ## Demo Video
